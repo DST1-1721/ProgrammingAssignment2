@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Programming assignment 2
 
 ## return a "cacheMatrix structure containing a matrix with cached inverse
 ##
